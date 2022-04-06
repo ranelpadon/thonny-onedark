@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='thonny-onedark',
-    version='0.1.1',
+    version='0.2.0',
     description='One Dark theme for Thonny IDE',
     long_description=open('README.md').read(),
     url='https://github.com/ranelpadon/thonny-onedark',
