@@ -65,18 +65,19 @@ def one_dark() -> SyntaxThemeSettings:
         'string3': {
             'foreground': GREEN,
         },
-        'open_string': {
-            'foreground': WHITE,
-            'background': RED,
-        },
-        'open_string3': {
-            'foreground': WHITE,
-            'background': RED,
-        },
         'surrounding_parens': {
             'foreground': WHITE,
         },
+        'open_string': {
+            'foreground': BLACK,
+            'background': RED,
+        },
+        'open_string3': {
+            'foreground': BLACK,
+            'background': RED,
+        },
         'unclosed_expression': {
+            'foreground': BLACK,
             'background': RED,
         },
 
